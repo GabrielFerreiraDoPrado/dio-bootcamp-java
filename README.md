@@ -5,7 +5,7 @@
 
 # About
 
-The project was developed during the Cloud Fullstack Bootcamp by [Digital Innovation One](https://www.dio.me/). It is a Bootcamp Abstraction containing, programming subjects, such as courses and masterclasses. There is also a Dev class, a dev can subscribe to a bootcamp, this action assigns courses from the bootcamp to the dev.
+The project was developed during the Cloud Fullstack Bootcamp by [Digital Innovation One](https://www.dio.me/). It is a Bootcamp Abstraction containing programming subjects, such as courses and masterclasses. There is also a Dev class, a dev can subscribe to a bootcamp, this action assigns courses from the bootcamp to the dev.
 
 ## Objectives
  
